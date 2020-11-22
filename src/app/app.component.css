@@ -1,0 +1,28 @@
+.navbar,.footer{
+    background-color: #34568B !important;
+    height: 7%;
+}
+.navbar{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+    justify-content: space-between;
+    
+}
+.wrapper{
+    padding-top: 5%;
+    min-height: 100%;
+    margin-bottom: -50px;
+
+}
+.navbar-brand,.page-footer{
+    text-decoration: none !important;
+}
+.footer,
+.push {
+  height: 50px;
+}
+.links-header{
+    color: white;
+}
